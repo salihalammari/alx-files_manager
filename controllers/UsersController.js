@@ -55,4 +55,4 @@ class UsersController {
 }
 
 export default UsersController;
-// export default postNew();
+export default postNew();
